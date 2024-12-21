@@ -1,4 +1,4 @@
-#Depth-Camera
+# Depth Camera For IOS
 
 This project is for taking pictures similar to [depth maps](https://en.wikipedia.org/wiki/Depth_map) Using an Iphone. The goal is to make stylized images and videos. Cole Bennet hit me up. Also its pretty useful for navigating in the dark. 
 
