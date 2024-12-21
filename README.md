@@ -4,8 +4,9 @@ This project is for taking pictures similar to [depth maps](https://en.wikipedia
 
 ## [Showcase](./ExampleAssets):
 
-<img src="ExampleAssets/IMG_7351.jpg" alt="Drums" style="width: 300px;" /> <img src="ExampleAssets/IMG_7359.jpg" alt="Box" style="width: 300px;" /> <img src="ExampleAssets/Hallway.gif" alt="Hallway" style="width: 300px;" />
+<img src="ExampleAssets/IMG_7351.jpg" alt="Drums" style="width: 300px;" /> <img src="ExampleAssets/IMG_7359.jpg" alt="Box" style="width: 300px;" /> <img src="ExampleAssets/IMG_7361" alt="Hallway" style="width: 300px;" />
 
+See the animated version in this [folder](./ExampleAssets) 
 
 ## IMPORTANT: [xcodeproj](./depthCamera.xcodeproj) omissions
 
