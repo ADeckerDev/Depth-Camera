@@ -1,0 +1,16 @@
+# Xcode user-specific data
+depthCamera.xcodeproj/xcuserdata/
+
+# Xcode workspace-related files
+depthCamera.xcodeproj/project.xcworkspace/
+
+# Derived data, build artifacts
+build/
+DerivedData/
+
+# Temporary system files (macOS)
+.DS_Store
+
+# Other unnecessary files
+*.zip
+

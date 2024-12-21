@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Camera Access Permission -->
+    <key>NSCameraUsageDescription</key>
+    <string>This app requires access to the camera for AR features.</string>
+
+    <!-- TrueDepth Camera Usage Permission -->
+    <key>NSFaceIDUsageDescription</key>
+    <string>This app uses the TrueDepth camera for front-facing AR features.</string>
+</dict>
+</plist>
+
